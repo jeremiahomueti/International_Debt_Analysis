@@ -35,4 +35,4 @@ The dataset contains columns like `country_name`, `indicator_code`, and `debt` (
 Key Findings
 1. **Total Distinct Countries:** The database contains debt records for **124** distinct countries.
 2. **Country with Highest Total Debt:** **China** has the highest total debt ($\approx$ $285,793,494,734.2$).
-3. **Country with Lowest Principal Repayment:** **Timor-Leste** has the lowest recorded principal repayment for the indicator code `DT.AMT.DLXF.CD` ($\$825,000$).
+3. **Country with Lowest Principal Repayment:** **Timor-Leste** has the lowest recorded principal repayment for the indicator code `DT.AMT.DLXF.CD` ($825,000).
